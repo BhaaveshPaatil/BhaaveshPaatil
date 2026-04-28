@@ -54,8 +54,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bhavesh-patil-02b915319)
 
 - ## 📊 Metrics
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/github-metrics.svg" /> 
-- 
+<img src="https://github.com/BhaaveshPaatil/BhaaveshPaatilE/blob/main/github-metrics.svg" />- 
 ## 📅 Contributions
 <img src="https://ghchart.rshah.org/409ba5/BhaaveshPaatil" />
 <!--
