@@ -46,6 +46,9 @@
 
 ---
 
+𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀:
+- 🏆 𝚆𝚘𝚗 𝚈𝙸 𝙸𝙳𝚂 𝟼.𝟶 𝙷𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗 𝚜𝚎𝚕𝚎𝚌𝚝𝚎𝚍 𝚒𝚗 𝚝𝚘𝚙 𝟽𝟶 𝚘𝚞𝚝 𝚘𝚏 𝟸𝟶𝟶+ 𝚝𝚎𝚊𝚖𝚜, 𝚝𝚑𝚎𝚗 𝚝𝚘𝚙 𝟷𝟶, 𝚊𝚗𝚍 𝚏𝚒𝚗𝚊𝚕𝚕𝚢 𝚠𝚘𝚗 𝟷𝚜𝚝 𝚙𝚕𝚊𝚌𝚎 🥇 𝚠𝚒𝚝𝚑 𝚊 ₹𝟷𝟶,𝟶𝟶𝟶 𝚌𝚊𝚜𝚑 𝚙𝚛𝚒𝚣𝚎
+
 ## 📫 Connect with me
 - 📧 bhavesh.official.p@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bhavesh-patil-02b915319)
