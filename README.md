@@ -55,8 +55,7 @@
 
 - ## 📊 Metrics
 <img src="https://github.com/BhaaveshPaatil/BhaaveshPaatilE/blob/main/github-metrics.svg" />- 
-## 📅 Contributions
-<img src="https://ghchart.rshah.org/409ba5/BhaaveshPaatil" />
+
 <!--
 **BhaaveshPaatil/BhaaveshPaatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
