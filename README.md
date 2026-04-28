@@ -52,6 +52,9 @@
 ## 📫 Connect with me
 - 📧 bhavesh.official.p@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bhavesh-patil-02b915319)
+
+- ## 📊 Metrics
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/github-metrics.svg" /> 
 - 
 <!--
 **BhaaveshPaatil/BhaaveshPaatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
