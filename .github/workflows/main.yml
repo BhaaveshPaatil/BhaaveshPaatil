@@ -15,3 +15,4 @@ jobs:
           user: BhaaveshPaatil
           template: classic
           base: header, activity, community, repositories
+          filename: github-metrics.svg   # ✅ THIS LINE IS MISSING
