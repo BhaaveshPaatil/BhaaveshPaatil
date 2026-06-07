@@ -1,8 +1,12 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
@@ -15,4 +19,4 @@ jobs:
           user: BhaaveshPaatil
           template: classic
           base: header, activity, community, repositories
-          filename: github-metrics.svg   # ✅ THIS LINE IS MISSING
+          filename: github-metrics.svg
